@@ -3,6 +3,8 @@
 ## Overview
 The **To-Do List Application** is a simple yet powerful JavaScript project designed to help users efficiently manage their tasks. This project demonstrates key JavaScript concepts, including event handling, DOM manipulation, and local storage.
 
+Screenshot: ![image](https://github.com/user-attachments/assets/2d5d5ce4-2f77-4f66-a825-2448efd9e69a)
+
 ## Features
 - Add tasks dynamically
 - Mark tasks as completed
