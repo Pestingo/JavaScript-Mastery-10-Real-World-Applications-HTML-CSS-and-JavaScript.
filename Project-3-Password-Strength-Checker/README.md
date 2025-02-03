@@ -2,6 +2,9 @@
 
 This project is a simple password strength checker built with HTML, CSS, and JavaScript. It evaluates the strength of a password based on its length and provides visual feedback to the user.
 
+![image](https://github.com/user-attachments/assets/6643ccd4-dfa0-4626-bfde-632a273794cc)
+
+
 ## Overview
 
 The Password Strength Checker allows users to input a password and receive immediate feedback on its strength. The strength is categorized as "Weak", "Medium", or "Strong" based on the length of the password.
